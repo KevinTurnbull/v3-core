@@ -12,13 +12,8 @@
     "core",
     "v3"
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Uniswap/uniswap-v3-core"
-  },
   "files": [
-    "contracts/interfaces",
-    "contracts/libraries",
+    "contracts/*",
     "artifacts/contracts/UniswapV3Factory.sol/UniswapV3Factory.json",
     "artifacts/contracts/UniswapV3Pool.sol/UniswapV3Pool.json",
     "artifacts/contracts/interfaces/**/*.json",
